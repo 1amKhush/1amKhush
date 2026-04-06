@@ -12,7 +12,7 @@ I love exploring everything from **low-level programming (C/C++)** to **modern w
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/khushvendra-singh](https://www.linkedin.com/in/khushvendra-singh-64827420a/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/khushvendra-singh-64827420a)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushvendras99@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mai_khush_hoon_)  
 
