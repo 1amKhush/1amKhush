@@ -1,105 +1,93 @@
-
-
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Khushvendra%20Singh&fontSize=50&fontAlign=50&fontAlignY=38&desc=Building%20systems%20that%20scale.%20Thinking%20in%20networks.&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<!-- Animated 3D Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Khushvendra%20Singh&fontSize=52&fontAlign=50&fontAlignY=42&desc=Systems%20%7C%20Networks%20%7C%20Distributed%20Everything&descAlign=50&descAlignY=60&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E9FFF&center=true&vCenter=true&width=600&lines=Engineering+Student+%F0%9F%8E%93;Distributed+Systems+Enthusiast+%F0%9F%94%97;P2P+%26+Decentralized+Networks+%F0%9F%8C%90;AI%2FML+Explorer+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=%F0%9F%94%97+Building+peer-to-peer+networks+from+scratch;%F0%9F%A4%96+Exploring+AI%2FML+%E2%80%94+temporal+graphs+%26+streaming;%F0%9F%9A%80+Low-level+C%2FC%2B%2B+meets+modern+web+dev;%F0%9F%8C%90+Decentralizing+the+internet%2C+one+commit)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=1amKhush&style=flat-square&color=6E9FFF&label=Profile+Views" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=1amKhush&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 &nbsp;
 <a href="https://github.com/1amKhush?tab=followers">
-  <img src="https://img.shields.io/github/followers/1amKhush?style=flat-square&color=6E9FFF&label=Followers" />
+  <img src="https://img.shields.io/github/followers/1amKhush?style=for-the-badge&color=0e75b6&label=FOLLOWERS" />
 </a>
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Khushvendra
+<!-- 3D Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=1amKhush&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+</div>
 
-> *Engineering student wiring the decentralized web, one commit at a time.*
+---
 
-I build systems that **actually work at scale** — from low-level C/C++ to distributed networks and modern full-stack apps. Currently obsessed with the intersection of **peer-to-peer networking**, **AI/ML**, and **systems design**.
+## 🙋‍♂️ About Me
 
-```text
-🔧  Tinkerer at heart         ████████████████████  always
-🌐  P2P / Decentralized       ████████████████░░░░  deep dive
-🤖  AI / ML                   ████████████░░░░░░░░  learning
-💻  Competitive Programming   ██████████░░░░░░░░░░  growing
+```go
+package main
+
+import "fmt"
+
+type Developer struct {
+    Name        string
+    Location    string
+    Focus       []string
+    CurrentlyOn string
+    OpenTo      string
+}
+
+func main() {
+    me := Developer{
+        Name:     "Khushvendra Singh",
+        Location: "India 🇮🇳",
+        Focus: []string{
+            "Distributed Systems",
+            "P2P Networks (WebRTC + libp2p)",
+            "AI/ML — Temporal Graphs & Streaming",
+            "Competitive Programming",
+        },
+        CurrentlyOn: "Architecting decentralized databases",
+        OpenTo:      "Open Source Collaboration",
+    }
+    fmt.Println(me)
+}
 ```
 
 ---
 
-## 🚀 What I'm Building
+## 🌌 Open Source & Contributions
 
-| Project | Focus | Status |
-|--------|-------|--------|
-| ⚡ **P2P Systems** | WebRTC + libp2p + decentralized databases | 🟢 Active |
-| 🧠 **AI/ML Research** | Temporal graphs & streaming algorithms | 🟡 Exploring |
-| 🏆 **Competitive Programming** | Algorithms & data structures | 🟢 Active |
-| 🌐 **Full-Stack Apps** | MERN stack projects | 🟢 Active |
-
----
-
-## 🛠️ Tech Stack
-
+<!-- Snake Contribution Graph -->
 <div align="center">
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1amKhush/1amKhush/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1amKhush/1amKhush/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/1amKhush/1amKhush/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 </div>
 
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1amKhush&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1amKhush&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1amKhush&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1amKhush&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=1amKhush&theme=github-dark-blue&hide_border=true" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=1amKhush&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1amKhush&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1amKhush&theme=github_dark&hide_border=true&layout=donut-vertical&langs_count=8" />
 </div>
 
 ---
@@ -108,18 +96,14 @@ I build systems that **actually work at scale** — from low-level C/C++ to dist
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushvendra-singh-64827420a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushvendra-singh-64827420a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushvendras99@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mai_khush_hoon_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mai_khush_hoon_)
+
+<br/>
+
+*"The network is the computer."* — Sun Microsystems
 
 </div>
 
----
-
-<div align="center">
-
-*"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
