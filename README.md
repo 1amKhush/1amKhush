@@ -57,7 +57,6 @@ func main() {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1amKhush&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=1amKhush&theme=github-dark-blue&hide_border=true" height="170"/>
 </div>
 
 
