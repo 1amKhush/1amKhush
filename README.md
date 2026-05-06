@@ -1,79 +1,78 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Khushvendra%20Singh&fontSize=56&fontAlign=50&fontAlignY=45&desc=Systems%20%E2%80%A2%20Networks%20%E2%80%A2%20Distributed%20Everything&descAlign=50&descAlignY=62&animation=twinkling&fontColor=ffffff&descSize=18" width="100%"/>
+
 <div align="center">
 
-<!-- Animated 3D Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Khushvendra%20Singh&fontSize=52&fontAlign=50&fontAlignY=42&desc=Systems%20%7C%20Networks%20%7C%20Distributed%20Everything&descAlign=50&descAlignY=60&animation=twinkling&fontColor=ffffff" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=%E2%9A%A1+Low-level+C%2FC%2B%2B+meets+modern+web+dev;%F0%9F%94%97+Peer-to-peer+networks+from+scratch;%F0%9F%A4%96+Temporal+graphs+%26+streaming+ML;%F0%9F%8C%90+Decentralizing+the+internet%2C+one+commit)](https://git.io/typing-svg)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=%F0%9F%94%97+Building+peer-to-peer+networks+from+scratch;%F0%9F%A4%96+Exploring+AI%2FML+%E2%80%94+temporal+graphs+%26+streaming;%F0%9F%9A%80+Low-level+C%2FC%2B%2B+meets+modern+web+dev;%F0%9F%8C%90+Decentralizing+the+internet%2C+one+commit)](https://git.io/typing-svg)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=1amKhush&style=flat-square&color=58a6ff&label=profile+views)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/1amKhush?style=flat-square&color=58a6ff&label=followers)](https://github.com/1amKhush?tab=followers)
 
 </div>
 
-
 ---
 
-## 🙋‍♂️ About Me
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### `whoami`
 
 ```go
-package main
-
-import "fmt"
-
 type Developer struct {
-    Name        string
-    Location    string
-    Focus       []string
-    CurrentlyOn string
-    OpenTo      string
+    Name     string
+    Based    string
+    Now      string
+    Loves    []string
 }
 
-func main() {
-    me := Developer{
-        Name:     "Khushvendra Singh",
-        Location: "India 🇮🇳",
-        Focus: []string{
-            "Distributed Systems",
-            "P2P Networks (WebRTC + libp2p)",
-            "AI/ML — Temporal Graphs & Streaming",
-            "Competitive Programming",
-        },
-        CurrentlyOn: "Architecting decentralized databases",
-        OpenTo:      "Open Source Collaboration",
-    }
-    fmt.Println(me)
+me := Developer{
+    Name:  "Khushvendra Singh",
+    Based: "India 🇮🇳",
+    Now:   "Decentralized databases",
+    Loves: []string{
+        "P2P  · WebRTC · libp2p",
+        "Distributed Systems",
+        "AI/ML · Temporal Graphs",
+        "Competitive Programming",
+    },
 }
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🌌 Open Source & Contributions
+### 🌌 Open Source & Contributions
 
-<!-- Snake Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1amKhush&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1amKhush&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution+Activity&radius=6" width="100%"/>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1amKhush&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="170"/>
-  &nbsp;
-</div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=1amKhush&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&icon_color=58a6ff&title_color=58a6ff" height="175"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=1amKhush&theme=github-dark-blue&hide_border=true&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff" height="175"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Find Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushvendra-singh-64827420a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushvendras99@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mai_khush_hoon_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushvendra-singh-64827420a)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushvendras99@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mai_khush_hoon_)
 
 <br/>
 
-*"The network is the computer."* — Sun Microsystems
+> *"The network is the computer."* — Sun Microsystems
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer&animation=twinkling" width="100%"/>
