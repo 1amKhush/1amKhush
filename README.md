@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=%E2%9A%A1+Low-level+C%2FC%2B%2B+meets+modern+web+dev;%F0%9F%94%97+Peer-to-peer+networks+from+scratch;%F0%9F%A4%96+Temporal+graphs+%26+streaming+ML;%F0%9F%8C%90+Decentralizing+the+internet%2C+one+commit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=%E2%9A%A1+Low-level+C%2FC%2B%2B+meets+modern+web+dev;%F0%9F%94%97+Peer-to-peer+networks+from+scratch;%F0%9F%A4%96+Temporal+graphs+%26+streaming+ML;%F0%9F%8C%90+Decentralizing+the+internet%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### `whoami`
+### `whoami?`
 
 ```go
 type Developer struct {
@@ -29,12 +29,12 @@ type Developer struct {
 me := Developer{
     Name:  "Khushvendra Singh",
     Based: "India 🇮🇳",
-    Now:   "Decentralized databases",
+    Now:   "Into the databases rabbit hole...",
     Loves: []string{
-        "P2P  · WebRTC · libp2p",
+        "P2P  · MCP · libp2p",
         "Distributed Systems",
         "AI/ML · Temporal Graphs",
-        "Competitive Programming",
+        "Systems and Infra",
     },
 }
 ```
@@ -43,7 +43,7 @@ me := Developer{
 
 ---
 
-### 🌌 Open Source & Contributions
+### Contributions
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1amKhush&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution+Activity&radius=6" width="100%"/>
 
@@ -59,7 +59,7 @@ me := Developer{
 
 ---
 
-### 🤝 Find Me
+### Find Me
 
 <div align="center">
 
