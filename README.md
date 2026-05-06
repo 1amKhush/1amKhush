@@ -6,22 +6,8 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=%F0%9F%94%97+Building+peer-to-peer+networks+from+scratch;%F0%9F%A4%96+Exploring+AI%2FML+%E2%80%94+temporal+graphs+%26+streaming;%F0%9F%9A%80+Low-level+C%2FC%2B%2B+meets+modern+web+dev;%F0%9F%8C%90+Decentralizing+the+internet%2C+one+commit)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=1amKhush&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://github.com/1amKhush?tab=followers">
-  <img src="https://img.shields.io/github/followers/1amKhush?style=for-the-badge&color=0e75b6&label=FOLLOWERS" />
-</a>
-
 </div>
 
----
-
-<!-- 3D Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1amKhush&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-</div>
 
 ---
 
@@ -63,16 +49,6 @@ func main() {
 
 <!-- Snake Contribution Graph -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1amKhush/1amKhush/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1amKhush/1amKhush/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/1amKhush/1amKhush/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1amKhush&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
@@ -84,11 +60,6 @@ func main() {
   <img src="https://streak-stats.demolab.com?user=1amKhush&theme=github-dark-blue&hide_border=true" height="170"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1amKhush&theme=github_dark&hide_border=true&layout=donut-vertical&langs_count=8" />
-</div>
 
 ---
 
