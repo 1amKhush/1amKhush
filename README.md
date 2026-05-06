@@ -4,12 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=%E2%9A%A1+Low-level+C%2FC%2B%2B+meets+modern+web+dev;%F0%9F%94%97+Peer-to-peer+networks+from+scratch;%F0%9F%A4%96+Temporal+graphs+%26+streaming+ML;%F0%9F%8C%90+Decentralizing+the+internet%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=1amKhush&style=flat-square&color=58a6ff&label=profile+views)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/1amKhush?style=flat-square&color=58a6ff&label=followers)](https://github.com/1amKhush?tab=followers)
-
 </div>
 
 ---
